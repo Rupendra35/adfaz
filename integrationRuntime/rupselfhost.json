@@ -1,0 +1,6 @@
+{
+	"name": "rupselfhost",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

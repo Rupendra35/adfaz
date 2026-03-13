@@ -1,0 +1,9 @@
+{
+	"name": "adf-rup",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5097c96c-3ab4-4dc5-9efa-c55770eca371",
+		"tenantId": "5da006c7-a3b2-41c4-8f55-4d70918eb136"
+	}
+}
